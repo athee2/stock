@@ -694,6 +694,34 @@ async function fiyatBoa() {
                                 data = loadNotes()
                 
                                 data.push({
+                                  "Barkod": `${barkodVeri[i]}35`,
+                                  "Piyasa Satış Fiyatı (KDV Dahil)": enDskFyt(boafyt[0])+100,
+                                  "Trendyol'da  Satılacak Fiyat (KDV Dahil)": enDskFyt(boafyt[0]),
+                                  "Ürün Stok Adedi": '',
+                                })
+                    
+                                data.push({
+                                  "Barkod": `${barkodVeri[i]}36`,
+                                  "Piyasa Satış Fiyatı (KDV Dahil)": enDskFyt(boafyt[0])+100,
+                                  "Trendyol'da  Satılacak Fiyat (KDV Dahil)": enDskFyt(boafyt[0]),
+                                  "Ürün Stok Adedi": '',
+                                })
+                    
+                                data.push({
+                                  "Barkod": `${barkodVeri[i]}37`,
+                                  "Piyasa Satış Fiyatı (KDV Dahil)": enDskFyt(boafyt[0])+100,
+                                  "Trendyol'da  Satılacak Fiyat (KDV Dahil)": enDskFyt(boafyt[0]),
+                                  "Ürün Stok Adedi": '',
+                                })
+                    
+                                data.push({
+                                  "Barkod": `${barkodVeri[i]}38`,
+                                  "Piyasa Satış Fiyatı (KDV Dahil)": enDskFyt(boafyt[0])+100,
+                                  "Trendyol'da  Satılacak Fiyat (KDV Dahil)": enDskFyt(boafyt[0]),
+                                  "Ürün Stok Adedi": '',
+                                })
+                    
+                                data.push({
                                   "Barkod": `${barkodVeri[i]}39`,
                                   "Piyasa Satış Fiyatı (KDV Dahil)": enDskFyt(boafyt[0])+100,
                                   "Trendyol'da  Satılacak Fiyat (KDV Dahil)": enDskFyt(boafyt[0]),
@@ -702,41 +730,6 @@ async function fiyatBoa() {
                     
                                 data.push({
                                   "Barkod": `${barkodVeri[i]}40`,
-                                  "Piyasa Satış Fiyatı (KDV Dahil)": enDskFyt(boafyt[0])+100,
-                                  "Trendyol'da  Satılacak Fiyat (KDV Dahil)": enDskFyt(boafyt[0]),
-                                  "Ürün Stok Adedi": '',
-                                })
-                    
-                                data.push({
-                                  "Barkod": `${barkodVeri[i]}41`,
-                                  "Piyasa Satış Fiyatı (KDV Dahil)": enDskFyt(boafyt[0])+100,
-                                  "Trendyol'da  Satılacak Fiyat (KDV Dahil)": enDskFyt(boafyt[0]),
-                                  "Ürün Stok Adedi": '',
-                                })
-                    
-                                data.push({
-                                  "Barkod": `${barkodVeri[i]}42`,
-                                  "Piyasa Satış Fiyatı (KDV Dahil)": enDskFyt(boafyt[0])+100,
-                                  "Trendyol'da  Satılacak Fiyat (KDV Dahil)": enDskFyt(boafyt[0]),
-                                  "Ürün Stok Adedi": '',
-                                })
-                    
-                                data.push({
-                                  "Barkod": `${barkodVeri[i]}43`,
-                                  "Piyasa Satış Fiyatı (KDV Dahil)": enDskFyt(boafyt[0])+100,
-                                  "Trendyol'da  Satılacak Fiyat (KDV Dahil)": enDskFyt(boafyt[0]),
-                                  "Ürün Stok Adedi": '',
-                                })
-                    
-                                data.push({
-                                  "Barkod": `${barkodVeri[i]}44`,
-                                  "Piyasa Satış Fiyatı (KDV Dahil)": enDskFyt(boafyt[0])+100,
-                                  "Trendyol'da  Satılacak Fiyat (KDV Dahil)": enDskFyt(boafyt[0]),
-                                  "Ürün Stok Adedi": '',
-                                })
-                    
-                                data.push({
-                                  "Barkod": `${barkodVeri[i]}45`,
                                   "Piyasa Satış Fiyatı (KDV Dahil)": enDskFyt(boafyt[0])+100,
                                   "Trendyol'da  Satılacak Fiyat (KDV Dahil)": enDskFyt(boafyt[0]),
                                   "Ürün Stok Adedi": '',
@@ -751,53 +744,47 @@ async function fiyatBoa() {
                               data = loadNotes()
 
                               data.push({
-                                  "Barkod": `${barkodVeri[i]}39`,
+                                  "Barkod": `${barkodVeri[i]}35`,
                                   "Piyasa Satış Fiyatı (KDV Dahil)": "",
                                   "Trendyol'da  Satılacak Fiyat (KDV Dahil)": "",
                                   "Ürün Stok Adedi": ""
                                 })
   
                               data.push({
-                                  "Barkod": `${barkodVeri[i]}40`,
+                                  "Barkod": `${barkodVeri[i]}36`,
                                   "Piyasa Satış Fiyatı (KDV Dahil)": "",
                                   "Trendyol'da  Satılacak Fiyat (KDV Dahil)": "",
                                   "Ürün Stok Adedi": ""
                                 })
   
                                   data.push({
-                                  "Barkod": `${barkodVeri[i]}41`,
+                                  "Barkod": `${barkodVeri[i]}37`,
                                   "Piyasa Satış Fiyatı (KDV Dahil)": "",
                                   "Trendyol'da  Satılacak Fiyat (KDV Dahil)": "",
                                   "Ürün Stok Adedi": ""
                                   })
                       
                                   data.push({
-                                  "Barkod": `${barkodVeri[i]}42`,
+                                  "Barkod": `${barkodVeri[i]}38`,
                                   "Piyasa Satış Fiyatı (KDV Dahil)": "",
                                   "Trendyol'da  Satılacak Fiyat (KDV Dahil)": "",
                                   "Ürün Stok Adedi": ""
                                   })
                       
                                   data.push({
-                                  "Barkod": `${barkodVeri[i]}43`,
+                                  "Barkod": `${barkodVeri[i]}39`,
                                   "Piyasa Satış Fiyatı (KDV Dahil)": "",
                                   "Trendyol'da  Satılacak Fiyat (KDV Dahil)": "",
                                   "Ürün Stok Adedi": ""
                                   })
                       
                                   data.push({
-                                  "Barkod": `${barkodVeri[i]}44`,
+                                  "Barkod": `${barkodVeri[i]}40`,
                                   "Piyasa Satış Fiyatı (KDV Dahil)": "",
                                   "Trendyol'da  Satılacak Fiyat (KDV Dahil)": "",
                                   "Ürün Stok Adedi": ""
                                   })
                   
-                                  data.push({
-                                  "Barkod": `${barkodVeri[i]}45`,
-                                  "Piyasa Satış Fiyatı (KDV Dahil)": "",
-                                  "Trendyol'da  Satılacak Fiyat (KDV Dahil)": "",
-                                  "Ürün Stok Adedi": "",
-                                  })
                   
                                   await console.log(err)
                                   await console.log(chalk.bgRed.bold(`${barkodVeri[i]}... Error`))
