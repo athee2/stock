@@ -98,6 +98,8 @@ async function stokBoa() {
               let idNumSon44 = idNum44.toString()
               let idNumSon45 = idNum45.toString()
 
+              console.log(idNumSon39)
+
               try {
                 var boa01_39 = await page.evaluate((idNumSon39) => {
                   try {

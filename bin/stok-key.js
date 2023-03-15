@@ -11,6 +11,7 @@ const oto_kadin = require('../stock/kadin_stok/oto_kadin')
 const boa_stok = require('../stock/boa_stok/boa_stok')
 const co_stok = require('../stock/co_stok/co_stok')
 const oto_erb = require ('../stock/erb_stok/oto_erb')
+const oto_fiyat = require('../fiyat/oto_fiyat')
 
 program
   .command('boa')
@@ -71,6 +72,11 @@ program
   .command('oto_erb')
   .description('Erbilden Stok')
   .action(oto_erb)
+
+  program
+    .command('oto_fiyat')
+    .description('Oto Boa, Knack, Wagoon, Erbilden fiyat')
+    .action(oto_fiyat)
 
 
 program.parse(process.argv)

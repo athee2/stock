@@ -79,6 +79,7 @@ async function stokKadin() {
               let idNumSon39 = idName.toString() + idNum39.toString()
               let idNumSon40 = idName.toString() + idNum40.toString()
 
+              console.log(idNumSon35, idNumSon36)
 
               try {
 
