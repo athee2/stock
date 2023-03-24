@@ -845,7 +845,14 @@
         "https://www.midashoes.com/mida-shoes-y825-siyah-deri-cift-bantli-kadin-topuklu-ayakkabi/",
         "https://www.midashoes.com/mida-shoes-y825-ten-deri-cift-bantli-kadin-topuklu-ayakkabi/",
         "https://www.midashoes.com/mida-shoes-y825-turuncu-deri-cift-bantli-kadin-topuklu-ayakkabi/",
-        "https://www.midashoes.com/mida-shoes-y825-yesil-deri-cift-bantli-kadin-topuklu-ayakkabi/"
+        "https://www.midashoes.com/mida-shoes-y825-yesil-deri-cift-bantli-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-ygori-pudra-keten-kadin-terlik/",
+        "https://www.midashoes.com/mida-shoes-ylisa-beyaz-deri-topuklu-kadin-babet/",
+        "https://www.midashoes.com/mida-shoes-ylisa-fusya-deri-topuklu-kadin-babet/",
+        "https://www.midashoes.com/mida-shoes-ylisa-nude-deri-topuklu-kadin-babet/",
+        "https://www.midashoes.com/mida-shoes-ylisa-siyah-deri-topuklu-kadin-babet/",
+        "https://www.midashoes.com/mida-shoes-ylisa-turuncu-deri-topuklu-kadin-babet/",
+        "https://www.midashoes.com/mida-shoes-ylisa-yesil-deri-topuklu-kadin-babet/"
 
     ],
     "barkod": [
@@ -1694,7 +1701,14 @@
         "RNNY825SYHCLT",
         "RNNY825TENCLT",
         "RNNY825TRNCCLT",
-        "RNNY825YSLCLT"
+        "RNNY825YSLCLT",
+        "RNNYGORİPDRKTN",
+        "RNNYLİSABYZCLT",
+        "RNNYLİSAFSYCLT",
+        "RNNYLİSANUDECLT",
+        "RNNYLİSASYHCLT",
+        "RNNYLİSATRNCCLT",
+        "RNNYLİSAYSLCLT"
 
     ],
     "id": [
@@ -2543,7 +2557,14 @@
         "#product_attribute_6209_ 20831",
         "#product_attribute_6210_ 20837",
         "#product_attribute_6211_ 20843",
-        "#product_attribute_6212_ 20849"
+        "#product_attribute_6212_ 20849",
+        "#product_attribute_6218_ 20885",
+        "#product_attribute_6219_ 20891",
+        "#product_attribute_6220_ 20897",
+        "#product_attribute_6221_ 20903",
+        "#product_attribute_6222_ 20909",
+        "#product_attribute_6223_ 20915",
+        "#product_attribute_6224_ 20921"
 
     ]
 }
