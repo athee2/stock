@@ -852,7 +852,9 @@
         "https://www.midashoes.com/mida-shoes-ylisa-nude-deri-topuklu-kadin-babet/",
         "https://www.midashoes.com/mida-shoes-ylisa-siyah-deri-topuklu-kadin-babet/",
         "https://www.midashoes.com/mida-shoes-ylisa-turuncu-deri-topuklu-kadin-babet/",
-        "https://www.midashoes.com/mida-shoes-ylisa-yesil-deri-topuklu-kadin-babet/"
+        "https://www.midashoes.com/mida-shoes-ylisa-yesil-deri-topuklu-kadin-babet/",
+        "https://www.midashoes.com/mida-shoes-ygori-siyah-keten-kadin-terlik/",
+        "https://www.midashoes.com/mida-shoes-ygori-ten-keten-kadin-terlik/"
 
     ],
     "barkod": [
@@ -1708,7 +1710,9 @@
         "RNNYLİSANUDECLT",
         "RNNYLİSASYHCLT",
         "RNNYLİSATRNCCLT",
-        "RNNYLİSAYSLCLT"
+        "RNNYLİSAYSLCLT",
+        "RNNYGORİSYHKTN",
+        "RNNYGORİTENKTN"
 
     ],
     "id": [
@@ -2564,7 +2568,9 @@
         "#product_attribute_6221_ 20903",
         "#product_attribute_6222_ 20909",
         "#product_attribute_6223_ 20915",
-        "#product_attribute_6224_ 20921"
+        "#product_attribute_6224_ 20921",
+        "#product_attribute_6217_ 20879",
+        "#product_attribute_6218_ 20885"
 
     ]
 }
