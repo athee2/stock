@@ -854,7 +854,27 @@
         "https://www.midashoes.com/mida-shoes-ylisa-turuncu-deri-topuklu-kadin-babet/",
         "https://www.midashoes.com/mida-shoes-ylisa-yesil-deri-topuklu-kadin-babet/",
         "https://www.midashoes.com/mida-shoes-ygori-siyah-keten-kadin-terlik/",
-        "https://www.midashoes.com/mida-shoes-ygori-ten-keten-kadin-terlik/"
+        "https://www.midashoes.com/mida-shoes-ygori-ten-keten-kadin-terlik/",
+        "https://www.midashoes.com/mida-shoes-y411-beyaz-deri-onu-kapali-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y411-fusya-deri-onu-kapali-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y411-siyah-deri-onu-kapali-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y411-ten-deri-onu-kapali-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y414-beyaz-deri-uzun-bagcikli-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y414-siyah-deri-uzun-bagcikli-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y414-ten-deri-uzun-bagcikli-kadin-topuklu-ayakkabi-2/",
+        "https://www.midashoes.com/mida-shoes-y434-beyaz-deri-onu-kapali-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y434-fusya-deri-onu-kapali-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y434-siyah-deri-onu-kapali-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y434-ten-deri-onu-kapali-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y434-yesil-deri-onu-kapali-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y819-beyaz-deri-tek-bantli-onu-acik-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y819-siyah-deri-tek-bantli-onu-acik-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y819-ten-deri-tek-bantli-onu-acik-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y824-siyah-deri-tek-bantli-onu-acik-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y826-beyaz-deri-uc-bantli-onu-acik-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-y826-gumus-deri-uc-bantli-onu-acik-kadin-topuklu-ayakkabi/",
+        "https://www.midashoes.com/mida-shoes-ysfftrk-cift-bantli-kadin-topuklu-ayakkabi/",
+        "https://www.bayiknack.com/urun/knack-knack-gunluk-spor-klasik-ayakkabi-717-siyah-siyah-taban"
 
     ],
     "barkod": [
@@ -1712,7 +1732,27 @@
         "RNNYLİSATRNCCLT",
         "RNNYLİSAYSLCLT",
         "RNNYGORİSYHKTN",
-        "RNNYGORİTENKTN"
+        "RNNYGORİTENKTN",
+        "RNNY411BYZCLT",
+        "RNNY411FSYCLT",
+        "RNNY411SYHCLT",
+        "RNNY411TENCLT",
+        "RNNY414BYZCLT",
+        "RNNY414SYHCLT",
+        "RNNY414TENCLT",
+        "RNNY434BYZCLT",
+        "RNNY434FSYCLT",
+        "RNNY434SYHCLT",
+        "RNNY434TENCLT",
+        "RNNY434YSLCLT",
+        "RNNY819BYZCLT",
+        "RNNY819SYHCLT",
+        "RNNY819TENCLT",
+        "RNNY824SYHCLT",
+        "RNNY826BYZCLT",
+        "RNNY826GMSCLT",
+        "RNNYSFFTRK"
+
 
     ],
     "id": [
@@ -2570,7 +2610,26 @@
         "#product_attribute_6223_ 20915",
         "#product_attribute_6224_ 20921",
         "#product_attribute_6217_ 20879",
-        "#product_attribute_6218_ 20885"
+        "#product_attribute_6218_ 20885",
+        "#product_attribute_6225_ 20927",
+        "#product_attribute_6226_ 20933",
+        "#product_attribute_6227_ 20939",
+        "#product_attribute_6228_ 20945",
+        "#product_attribute_6229_ 20951",
+        "#product_attribute_6230_ 20957",
+        "#product_attribute_6231_ 20963",
+        "#product_attribute_6232_ 20969",
+        "#product_attribute_6233_ 20975",
+        "#product_attribute_6234_ 20981",
+        "#product_attribute_6235_ 20987",
+        "#product_attribute_6236_ 20993",
+        "#product_attribute_6237_ 20999",
+        "#product_attribute_6238_ 21005",
+        "#product_attribute_6239_ 21011",
+        "#product_attribute_6240_ 21017",
+        "#product_attribute_6241_ 21023",
+        "#product_attribute_6242_ 21029",
+        "#product_attribute_6243_ 21035"
 
     ]
 }

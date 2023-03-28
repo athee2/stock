@@ -11,7 +11,7 @@ async function oto_erb() {
         await erb_delJson()
       })(),
       await (async function() {
-        await stokErb_01()
+        await stokErb()
       })(),
       await (async function() {
         await erb_expExl()
